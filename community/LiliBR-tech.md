@@ -1,7 +1,7 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D41b22&height=150&section=header&text=👀Inovando+com+IA+e+TI+para+moldar+o+futuro!&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=👋+Bem+-+vindo(a)+ao+meu+perfil+GitHUb!+❤️)](https://git.io/typing-svg)
- 
+
   <img src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" 
    alt="ilustração de um computador" min-width="100px" max-width="100px" width="100px" align="right"> 
  
